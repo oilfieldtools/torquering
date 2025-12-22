@@ -1,4 +1,4 @@
-https://oilfieldtools.github.io/pumpingunit/
-https://oilfieldtools.github.io/suckerrod/
-https://oilfieldtools.github.io/OCTG/
-https://oilfieldtools.github.io/xmas/
+https://oilfieldtools.github.io/cableprotector
+https://oilfieldtools.github.io/suckerrod
+https://oilfieldtools.github.io/insulationjoint
+https://oilfieldtools.github.io/torquering
