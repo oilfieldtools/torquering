@@ -24,6 +24,7 @@ https://oilfieldtools.github.io/cableprotector
 https://oilfieldtools.github.io/keyseatreamer
 https://oilfieldtools.github.io/drillingstabilizer
 https://oilfieldtools.github.io/drillbypassvalve
+https://oilfieldtools.github.io/drillbypassvalve
 https://oilfieldtools.github.io/downholemotor
 https://oilfieldtools.github.io/impressionblock
 https://oilfieldtools.github.io/dropincheckvalve
